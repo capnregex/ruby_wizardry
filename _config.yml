@@ -26,7 +26,7 @@ github_username:  capnregex
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima # jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
